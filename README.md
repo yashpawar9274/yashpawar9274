@@ -7,7 +7,7 @@
 <h3 align="center">Computer Science Student | Full Stack Developer | Systems & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://builtbyyash.vercel.app/" target="_blank">
+  <a href="https://yashpawar92.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-BuiltByYash-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
