@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Pawar</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer | Systems & AI Enthusiast</h3>
+<h3 align="center">Computer Science Student | Web App Developer | Systems & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://yashpawar92.vercel.app/" target="_blank">
+  <a href="https://yashpawar9274.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-BuiltByYash-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
