@@ -48,7 +48,8 @@ Emotion-aware desktop assistant powered by **LiveKit** + **Gemini AI**.
 Performs web search, controls PC, and chats like a human. Mobile version coming soon.
 
 #### 👨‍💻 **Code Mentor**
-
+CodeMentor Playground is a cutting-edge, web-based integrated development environment 
+(IDE) designed specifically for educational purposes.
 ---
 
 ### 🧰 Tech Stack
