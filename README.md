@@ -47,6 +47,8 @@ An anonymous, Marvel-themed chat app for Gen-Z.
 Emotion-aware desktop assistant powered by **LiveKit** + **Gemini AI**.  
 Performs web search, controls PC, and chats like a human. Mobile version coming soon.
 
+#### 👨‍💻 **Code Mentor**
+
 ---
 
 ### 🧰 Tech Stack
