@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Pawar</h1>
-<h3 align="center">Computer Science Student | Web App Developer | Systems & AI Enthusiast</h3>
+<h3 align="center">Computer Science  | Web App Developer | Systems & AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://yashpawar9274.vercel.app/" target="_blank">
