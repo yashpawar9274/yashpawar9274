@@ -43,7 +43,7 @@ Includes scammer lookup, real-time alerts, and future **AI-based** detection.
 An anonymous, Marvel-themed chat app for Gen-Z.  
 1 user per hero name (e.g., only one Iron Man). Features **IP tracking, admin logs, E2E encryption**.
 
-#### 🤖 **Kali AI Agent**  
+#### 🤖 **HOPE AGENT**  
 Emotion-aware desktop assistant powered by **LiveKit** + **Gemini AI**.  
 Performs web search, controls PC, and chats like a human. Mobile version coming soon.
 
@@ -83,7 +83,7 @@ $ whoami
 ### 📫 Connect with Me
 
 - 🌐 [Portfolio Website](https://builtbyyash.vercel.app/)
-- 📧 Email: `yash92pawar74@gmail.com`
+- 📧 Email: `theyashpawar92@gmail.com`
 - 💼 LinkedIn: [Add your link here]
 
 ---
