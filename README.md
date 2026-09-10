@@ -61,7 +61,7 @@ code mentor is a AI teacher for education purpose to use student write a code an
 ---
 ### GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashpawar9274&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashpawar9274&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Yash's GitHub Activity Graph" />
 </p>
 
 ---
